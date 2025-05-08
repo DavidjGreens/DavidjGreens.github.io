@@ -13,6 +13,11 @@ nav {
     text-align: center;
     background-color: rgb(31, 128, 111);
     height: 15vh;
+    
+}
+
+nav img{
+    border: none;
 }
 
 ul {
